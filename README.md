@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **rvb2000/rvb2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Rutvik Borad 👋
+
+I'm a MS student with Enterprise Software Technology specialization at San Jose State University. I have experience in developing and maintaining enterprise-level Distribtued applications. I have worked as an Application Engineer at Oracle for 1 year. I'm passionate about creating efficient and well-designed software that can make people's lives easier and more productive.
+
+## 🌱 Technical Skills
+* *Cloud Platforms* : AWS, GCP
+* *Infrastructure Automation* : Ansible 
+* *Containerization*: Docker, Kubernetes, Openshift
+* *Monitoring and Logging*: Prometheus, Grafana, Zabbix, Nagios 
+* *Programming Languages*: Python, Bash, Java
+* *Additional Skills*: Virtualization, PXE, DNS, DHCP ,ML, AI
