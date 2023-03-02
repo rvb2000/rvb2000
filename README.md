@@ -19,8 +19,10 @@ I'm a MS student with Enterprise Software Technology specialization at San Jose 
 
 ## 🌱 Technical Skills
 * *Cloud Platforms* : AWS, GCP
-* *Infrastructure Automation* : Ansible 
-* *Containerization*: Docker, Kubernetes, Openshift
-* *Monitoring and Logging*: Prometheus, Grafana, Zabbix, Nagios 
-* *Programming Languages*: Python, Bash, Java
-* *Additional Skills*: Virtualization, PXE, DNS, DHCP ,ML, AI
+* *Programming Languages*: Java, Python, C++, Javascirpt, HTML, PL-SQL
+* *Database*: Oracle SQL, MongoDB
+* *Frameworks*: NodeJs, Spring Boot, ReactJs
+* *Containerization*: Docker
+* *Additional Skills*: Distribtued Systems, Microservice Architecture, RESTful APIs, TCP / IP, HTTP, Web Security, 
+* *Tools*: Git, Apache Kafka
+
