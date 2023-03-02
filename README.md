@@ -23,6 +23,6 @@ I'm a MS student with Enterprise Software Technology specialization at San Jose 
 * *Database*: Oracle SQL, MongoDB
 * *Frameworks*: NodeJs, Spring Boot, ReactJs
 * *Containerization*: Docker
-* *Additional Skills*: Distribtued Systems, Microservice Architecture, RESTful APIs, TCP / IP, HTTP, Web Security, 
+* *Additional Skills*: Distribtued Systems, Microservice Architecture, RESTful APIs, TCP / IP, HTTP, Web Security 
 * *Tools*: Git, Apache Kafka
 
